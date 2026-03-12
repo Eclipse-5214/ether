@@ -2,7 +2,9 @@ name: Deploy Assets
 on:
   push:
     branches: [ main ]
-    paths: [ 'stellanav/**' ]
+    paths:
+      - 'stellanav/**'
+      - '*.json'
 
 jobs:
   build-and-deploy:
