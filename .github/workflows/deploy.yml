@@ -13,11 +13,10 @@ jobs:
       - name: Package Assets
         run: |
           mkdir public
-          cd assets
+          cd stellanav
           zip -r ../public/assets.zip .
           cd ..
           echo "${{ github.sha }}" > public/version.txt
-          # Optional: copy a simple index.html so the URL doesn't look empty
           echo "Stella Ether Asset Server" > public/index.html
 
       - name: Deploy to GH Pages Branch
