@@ -1,0 +1,27 @@
+name: Deploy Assets
+on:
+  push:
+    branches: [ main ]
+    paths: [ 'assets/**' ]
+
+jobs:
+  build-and-deploy:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Package Assets
+        run: |
+          mkdir public
+          cd assets
+          zip -r ../public/assets.zip .
+          cd ..
+          echo "${{ github.sha }}" > public/version.txt
+          # Optional: copy a simple index.html so the URL doesn't look empty
+          echo "Stella Ether Asset Server" > public/index.html
+
+      - name: Deploy to GH Pages Branch
+        uses: peaceiris/actions-gh-pages@v3
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          publish_dir: ./public
