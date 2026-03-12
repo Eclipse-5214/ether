@@ -13,9 +13,18 @@ jobs:
       - name: Package Assets
         run: |
           mkdir public
+          
           cd stellanav
           zip -r ../public/assets.zip .
           cd ..
+          
+          find . -maxdepth 1 -type f \
+            ! -name "README.md" \
+            ! -name ".gitignore" \
+            ! -name "version.txt" \
+            ! -path "./.github/*" \
+            -exec cp {} public/ \;
+
           echo "${{ github.sha }}" > public/version.txt
           echo "Stella Ether Asset Server" > public/index.html
 
