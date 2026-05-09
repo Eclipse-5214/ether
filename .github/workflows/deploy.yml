@@ -4,7 +4,7 @@ on:
     branches: [ main ]
     paths:
       - 'stellanav/**'
-      - 'routes/*.json"
+      - 'routes/*.json'
       - '*.json'
 
 jobs:
