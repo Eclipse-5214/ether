@@ -4,6 +4,7 @@ on:
     branches: [ main ]
     paths:
       - 'stellanav/**'
+      - 'routes/*.json"
       - '*.json'
 
 jobs:
@@ -14,12 +15,14 @@ jobs:
 
       - name: Package Assets
         run: |
-          mkdir public
+          mkdir -p public/routes  # Added -p to ensure routes folder is created
           
           cd stellanav
           zip -r ../public/assets.zip .
           cd ..
           
+          cp -r routes/*.json public/routes/ 2>/dev/null || echo "No JSON files found in routes/"
+
           find . -maxdepth 1 -type f \
             ! -name "README.md" \
             ! -name ".gitignore" \
@@ -29,7 +32,6 @@ jobs:
 
           echo "${{ github.sha }}" > public/version.txt
           echo "Stella Ether Asset Server" > public/index.html
-
       - name: Deploy to GH Pages Branch
         uses: peaceiris/actions-gh-pages@v3
         with:
