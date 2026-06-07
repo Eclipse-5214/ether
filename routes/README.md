@@ -41,7 +41,7 @@ Check the **#routes-sharing** channel in the **Stella Discord** for specialized 
 | File Name | Description |
 | :--- | :--- |
 | `default.json` | Standard community routes. Recommended for most players. |
-| `nexd.json` | Personal optimized routes focusing on speed and movement tech. |
+| `nexd.json` | Personal routes of NEXD_. |
 | | |
 
 ---
