@@ -26,7 +26,7 @@ To force an update when server-side routes are changed:
 ---
 
 ### Community & Discord Routes
-Check the **#routes-sharing** channel in the **Stella Discord** for specialized sets (Mage-specific, experimental paths, etc).
+Check the **#routes-sharing** channel in the **Stella Discord** for specialized sets.
 
 **To install a custom route:**
 1. Download the `.json` file.
