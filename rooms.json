@@ -13,7 +13,8 @@
     "reviveStones": 0,
     "secrets": 8,
     "crypts": 3,
-    "roomID": 0
+    "roomID": 0,
+    "prince": true
   },
   {
     "name": "Raccoon",
@@ -26,7 +27,8 @@
     "reviveStones": 0,
     "secrets": 4,
     "crypts": 2,
-    "roomID": 1
+    "roomID": 1,
+    "prince": false
   },
   {
     "name": "Spider",
@@ -41,7 +43,8 @@
     "reviveStones": 0,
     "secrets": 9,
     "crypts": 3,
-    "roomID": 2
+    "roomID": 2,
+    "prince": false
   },
   {
     "name": "Gold",
@@ -55,7 +58,8 @@
     "reviveStones": 0,
     "secrets": 1,
     "crypts": 0,
-    "roomID": 3
+    "roomID": 3,
+    "prince": false
   },
   {
     "name": "Shadow Assassin",
@@ -68,7 +72,8 @@
     "reviveStones": 0,
     "secrets": 0,
     "crypts": 2,
-    "roomID": 4
+    "roomID": 4,
+    "prince": false
   },
   {
     "name": "Fairy",
@@ -81,7 +86,8 @@
     "reviveStones": 0,
     "secrets": 0,
     "crypts": 0,
-    "roomID": 5
+    "roomID": 5,
+    "prince": false
   },
   {
     "name": "Mossy",
@@ -96,7 +102,8 @@
     "reviveStones": 0,
     "secrets": 4,
     "crypts": 2,
-    "roomID": 6
+    "roomID": 6,
+    "prince": false
   },
   {
     "name": "Banners",
@@ -109,7 +116,8 @@
     "reviveStones": 0,
     "secrets": 1,
     "crypts": 1,
-    "roomID": 7
+    "roomID": 7,
+    "prince": false
   },
   {
     "name": "Catwalk",
@@ -124,7 +132,8 @@
     "reviveStones": 0,
     "secrets": 6,
     "crypts": 5,
-    "roomID": 8
+    "roomID": 8,
+    "prince": false
   },
   {
     "name": "Duncan",
@@ -137,7 +146,8 @@
     "reviveStones": 0,
     "secrets": 1,
     "crypts": 0,
-    "roomID": 9
+    "roomID": 9,
+    "prince": false
   },
   {
     "name": "Red Green",
@@ -150,7 +160,8 @@
     "reviveStones": 0,
     "secrets": 3,
     "crypts": 2,
-    "roomID": 11
+    "roomID": 11,
+    "prince": false
   },
   {
     "name": "Entrance",
@@ -165,7 +176,8 @@
     "reviveStones": 0,
     "secrets": 0,
     "crypts": 0,
-    "roomID": 12
+    "roomID": 12,
+    "prince": false
   },
   {
     "name": "New Trap",
@@ -179,7 +191,8 @@
     "reviveStones": 0,
     "secrets": 3,
     "crypts": 1,
-    "roomID": 13
+    "roomID": 13,
+    "prince": false
   },
   {
     "name": "Wizard",
@@ -194,7 +207,8 @@
     "reviveStones": 0,
     "secrets": 4,
     "crypts": 8,
-    "roomID": 14
+    "roomID": 14,
+    "prince": false
   },
   {
     "name": "Blood",
@@ -207,7 +221,8 @@
     "reviveStones": 0,
     "secrets": 0,
     "crypts": 0,
-    "roomID": 15
+    "roomID": 15,
+    "prince": false
   },
   {
     "name": "Dino Site",
@@ -222,7 +237,8 @@
     "reviveStones": 0,
     "secrets": 4,
     "crypts": 4,
-    "roomID": 16
+    "roomID": 16,
+    "prince": false
   },
   {
     "name": "Spikes",
@@ -235,7 +251,8 @@
     "reviveStones": 0,
     "secrets": 3,
     "crypts": 2,
-    "roomID": 17
+    "roomID": 17,
+    "prince": false
   },
   {
     "name": "Quiz",
@@ -248,7 +265,8 @@
     "reviveStones": 0,
     "secrets": 0,
     "crypts": 0,
-    "roomID": 18
+    "roomID": 18,
+    "prince": false
   },
   {
     "name": "Hall",
@@ -261,7 +279,8 @@
     "reviveStones": 0,
     "secrets": 0,
     "crypts": 0,
-    "roomID": 19
+    "roomID": 19,
+    "prince": false
   },
   {
     "name": "Bomb Defuse",
@@ -274,7 +293,8 @@
     "reviveStones": 0,
     "secrets": 0,
     "crypts": 0,
-    "roomID": 20
+    "roomID": 20,
+    "prince": false
   },
   {
     "name": "Redstone Warrior",
@@ -288,7 +308,8 @@
     "reviveStones": 0,
     "secrets": 3,
     "crypts": 4,
-    "roomID": 21
+    "roomID": 21,
+    "prince": false
   },
   {
     "name": "Pit",
@@ -304,7 +325,8 @@
     "reviveStones": 0,
     "secrets": 5,
     "crypts": 4,
-    "roomID": 22
+    "roomID": 22,
+    "prince": false
   },
   {
     "name": "Flags",
@@ -320,7 +342,8 @@
     "reviveStones": 0,
     "secrets": 7,
     "crypts": 8,
-    "roomID": 23
+    "roomID": 23,
+    "prince": true
   },
   {
     "name": "Tic Tac Toe",
@@ -334,7 +357,8 @@
     "reviveStones": 0,
     "secrets": 1,
     "crypts": 0,
-    "roomID": 24
+    "roomID": 24,
+    "prince": false
   },
   {
     "name": "Cages",
@@ -347,7 +371,8 @@
     "reviveStones": 0,
     "secrets": 2,
     "crypts": 0,
-    "roomID": 25
+    "roomID": 25,
+    "prince": false
   },
   {
     "name": "Big Red Flag",
@@ -360,7 +385,8 @@
     "reviveStones": 0,
     "secrets": 2,
     "crypts": 1,
-    "roomID": 26
+    "roomID": 26,
+    "prince": true
   },
   {
     "name": "Balcony",
@@ -374,7 +400,8 @@
     "reviveStones": 0,
     "secrets": 4,
     "crypts": 0,
-    "roomID": 27
+    "roomID": 27,
+    "prince": false
   },
   {
     "name": "Dueces",
@@ -387,7 +414,8 @@
     "reviveStones": 0,
     "secrets": 3,
     "crypts": 6,
-    "roomID": 28
+    "roomID": 28,
+    "prince": false
   },
   {
     "name": "Stairs",
@@ -403,7 +431,8 @@
     "reviveStones": 0,
     "secrets": 4,
     "crypts": 1,
-    "roomID": 29
+    "roomID": 29,
+    "prince": false
   },
   {
     "name": "Dome",
@@ -416,7 +445,8 @@
     "reviveStones": 0,
     "secrets": 2,
     "crypts": 2,
-    "roomID": 30
+    "roomID": 30,
+    "prince": false
   },
   {
     "name": "Small Waterfall",
@@ -429,7 +459,8 @@
     "reviveStones": 0,
     "secrets": 2,
     "crypts": 5,
-    "roomID": 31
+    "roomID": 31,
+    "prince": false
   },
   {
     "name": "Cage",
@@ -442,7 +473,8 @@
     "reviveStones": 0,
     "secrets": 1,
     "crypts": 0,
-    "roomID": 32
+    "roomID": 32,
+    "prince": false
   },
   {
     "name": "Steps",
@@ -455,7 +487,8 @@
     "reviveStones": 0,
     "secrets": 1,
     "crypts": 1,
-    "roomID": 33
+    "roomID": 33,
+    "prince": false
   },
   {
     "name": "Atlas",
@@ -471,7 +504,8 @@
     "reviveStones": 0,
     "secrets": 6,
     "crypts": 5,
-    "roomID": 34
+    "roomID": 34,
+    "prince": false
   },
   {
     "name": "Dragon",
@@ -484,7 +518,8 @@
     "reviveStones": 0,
     "secrets": 0,
     "crypts": 0,
-    "roomID": 35
+    "roomID": 35,
+    "prince": false
   },
   {
     "name": "Lava Ravine",
@@ -499,7 +534,8 @@
     "reviveStones": 0,
     "secrets": 6,
     "crypts": 4,
-    "roomID": 36
+    "roomID": 36,
+    "prince": false
   },
   {
     "name": "Deathmite",
@@ -514,7 +550,8 @@
     "reviveStones": 0,
     "secrets": 6,
     "crypts": 4,
-    "roomID": 37
+    "roomID": 37,
+    "prince": false
   },
   {
     "name": "Blue Skulls",
@@ -527,7 +564,8 @@
     "reviveStones": 0,
     "secrets": 1,
     "crypts": 4,
-    "roomID": 38
+    "roomID": 38,
+    "prince": false
   },
   {
     "name": "Ice Path",
@@ -540,7 +578,8 @@
     "reviveStones": 0,
     "secrets": 0,
     "crypts": 0,
-    "roomID": 39
+    "roomID": 39,
+    "prince": false
   },
   {
     "name": "Purple Flags",
@@ -554,7 +593,8 @@
     "reviveStones": 0,
     "secrets": 5,
     "crypts": 7,
-    "roomID": 40
+    "roomID": 40,
+    "prince": false
   },
   {
     "name": "Long Hall",
@@ -567,7 +607,8 @@
     "reviveStones": 0,
     "secrets": 3,
     "crypts": 3,
-    "roomID": 41
+    "roomID": 41,
+    "prince": false
   },
   {
     "name": "Red Blue",
@@ -582,7 +623,8 @@
     "reviveStones": 0,
     "secrets": 4,
     "crypts": 1,
-    "roomID": 42
+    "roomID": 42,
+    "prince": true
   },
   {
     "name": "Overgrown Chains",
@@ -595,7 +637,8 @@
     "reviveStones": 0,
     "secrets": 2,
     "crypts": 1,
-    "roomID": 43
+    "roomID": 43,
+    "prince": false
   },
   {
     "name": "Old Trap",
@@ -608,7 +651,8 @@
     "reviveStones": 0,
     "secrets": 4,
     "crypts": 2,
-    "roomID": 44
+    "roomID": 44,
+    "prince": false
   },
   {
     "name": "Water",
@@ -621,7 +665,8 @@
     "reviveStones": 0,
     "secrets": 2,
     "crypts": 0,
-    "roomID": 45
+    "roomID": 45,
+    "prince": false
   },
   {
     "name": "Rails",
@@ -637,7 +682,8 @@
     "reviveStones": 0,
     "secrets": 9,
     "crypts": 1,
-    "roomID": 46
+    "roomID": 46,
+    "prince": false
   },
   {
     "name": "Ice Fill",
@@ -656,7 +702,8 @@
     "reviveStones": 0,
     "secrets": 0,
     "crypts": 0,
-    "roomID": 47
+    "roomID": 47,
+    "prince": false
   },
   {
     "name": "Mushroom",
@@ -669,7 +716,8 @@
     "reviveStones": 0,
     "secrets": 1,
     "crypts": 0,
-    "roomID": 48
+    "roomID": 48,
+    "prince": false
   },
   {
     "name": "Rare Overgrown",
@@ -682,7 +730,8 @@
     "reviveStones": 0,
     "secrets": 3,
     "crypts": 0,
-    "roomID": 49
+    "roomID": 49,
+    "prince": false
   },
   {
     "name": "Bridges",
@@ -696,7 +745,8 @@
     "reviveStones": 0,
     "secrets": 6,
     "crypts": 6,
-    "roomID": 50
+    "roomID": 50,
+    "prince": false
   },
   {
     "name": "Creeper Beams",
@@ -710,7 +760,8 @@
     "reviveStones": 0,
     "secrets": 0,
     "crypts": 0,
-    "roomID": 51
+    "roomID": 51,
+    "prince": false
   },
   {
     "name": "Three Weirdos",
@@ -723,7 +774,8 @@
     "reviveStones": 0,
     "secrets": 0,
     "crypts": 0,
-    "roomID": 52
+    "roomID": 52,
+    "prince": false
   },
   {
     "name": "Museum",
@@ -739,7 +791,8 @@
     "reviveStones": 0,
     "secrets": 5,
     "crypts": 4,
-    "roomID": 53
+    "roomID": 53,
+    "prince": false
   },
   {
     "name": "Quad Lava",
@@ -752,7 +805,8 @@
     "reviveStones": 0,
     "secrets": 2,
     "crypts": 0,
-    "roomID": 54
+    "roomID": 54,
+    "prince": false
   },
   {
     "name": "Small Stairs",
@@ -765,7 +819,8 @@
     "reviveStones": 0,
     "secrets": 2,
     "crypts": 1,
-    "roomID": 55
+    "roomID": 55,
+    "prince": false
   },
   {
     "name": "Jumping Skulls",
@@ -778,7 +833,8 @@
     "reviveStones": 0,
     "secrets": 1,
     "crypts": 0,
-    "roomID": 56
+    "roomID": 56,
+    "prince": false
   },
   {
     "name": "King Midas",
@@ -791,7 +847,8 @@
     "reviveStones": 0,
     "secrets": 0,
     "crypts": 1,
-    "roomID": 57
+    "roomID": 57,
+    "prince": false
   },
   {
     "name": "Diagonal",
@@ -806,7 +863,8 @@
     "reviveStones": 0,
     "secrets": 4,
     "crypts": 3,
-    "roomID": 58
+    "roomID": 58,
+    "prince": false
   },
   {
     "name": "Mural",
@@ -819,7 +877,8 @@
     "reviveStones": 0,
     "secrets": 1,
     "crypts": 0,
-    "roomID": 59
+    "roomID": 59,
+    "prince": false
   },
   {
     "name": "Market",
@@ -834,7 +893,8 @@
     "reviveStones": 0,
     "secrets": 5,
     "crypts": 4,
-    "roomID": 60
+    "roomID": 60,
+    "prince": true
   },
   {
     "name": "Hallway",
@@ -850,7 +910,8 @@
     "reviveStones": 0,
     "secrets": 3,
     "crypts": 1,
-    "roomID": 61
+    "roomID": 61,
+    "prince": false
   },
   {
     "name": "Beams",
@@ -863,7 +924,8 @@
     "reviveStones": 0,
     "secrets": 2,
     "crypts": 2,
-    "roomID": 62
+    "roomID": 62,
+    "prince": false
   },
   {
     "name": "Dip",
@@ -876,7 +938,8 @@
     "reviveStones": 0,
     "secrets": 2,
     "crypts": 3,
-    "roomID": 63
+    "roomID": 63,
+    "prince": false
   },
   {
     "name": "Basement",
@@ -889,7 +952,8 @@
     "reviveStones": 0,
     "secrets": 1,
     "crypts": 0,
-    "roomID": 64
+    "roomID": 64,
+    "prince": false
   },
   {
     "name": "Water Board",
@@ -903,7 +967,8 @@
     "reviveStones": 0,
     "secrets": 0,
     "crypts": 0,
-    "roomID": 65
+    "roomID": 65,
+    "prince": false
   },
   {
     "name": "Quartz Knight",
@@ -919,7 +984,8 @@
     "reviveStones": 0,
     "secrets": 7,
     "crypts": 9,
-    "roomID": 66
+    "roomID": 66,
+    "prince": true
   },
   {
     "name": "Pressure Plates",
@@ -933,7 +999,8 @@
     "reviveStones": 0,
     "secrets": 6,
     "crypts": 6,
-    "roomID": 67
+    "roomID": 67,
+    "prince": false
   },
   {
     "name": "Default",
@@ -947,7 +1014,8 @@
     "reviveStones": 0,
     "secrets": 0,
     "crypts": 0,
-    "roomID": 68
+    "roomID": 68,
+    "prince": false
   },
   {
     "name": "Cell",
@@ -960,7 +1028,8 @@
     "reviveStones": 0,
     "secrets": 1,
     "crypts": 0,
-    "roomID": 69
+    "roomID": 69,
+    "prince": false
   },
   {
     "name": "Mirror",
@@ -973,7 +1042,8 @@
     "reviveStones": 0,
     "secrets": 1,
     "crypts": 0,
-    "roomID": 70
+    "roomID": 70,
+    "prince": false
   },
   {
     "name": "Lots Of Floors",
@@ -986,7 +1056,8 @@
     "reviveStones": 0,
     "secrets": 3,
     "crypts": 1,
-    "roomID": 71
+    "roomID": 71,
+    "prince": false
   },
   {
     "name": "Teleport Maze",
@@ -1000,7 +1071,8 @@
     "reviveStones": 0,
     "secrets": 0,
     "crypts": 0,
-    "roomID": 72
+    "roomID": 72,
+    "prince": false
   },
   {
     "name": "Mines",
@@ -1017,7 +1089,8 @@
     "reviveStones": 0,
     "secrets": 10,
     "crypts": 11,
-    "roomID": 73
+    "roomID": 73,
+    "prince": false
   },
   {
     "name": "Sloth",
@@ -1030,7 +1103,8 @@
     "reviveStones": 0,
     "secrets": 1,
     "crypts": 1,
-    "roomID": 74
+    "roomID": 74,
+    "prince": true
   },
   {
     "name": "Withermancer",
@@ -1045,7 +1119,8 @@
     "reviveStones": 0,
     "secrets": 4,
     "crypts": 6,
-    "roomID": 75
+    "roomID": 75,
+    "prince": true
   },
   {
     "name": "Cathedral",
@@ -1061,7 +1136,8 @@
     "reviveStones": 0,
     "secrets": 8,
     "crypts": 5,
-    "roomID": 76
+    "roomID": 76,
+    "prince": false
   },
   {
     "name": "Gravel",
@@ -1076,7 +1152,8 @@
     "reviveStones": 0,
     "secrets": 6,
     "crypts": 2,
-    "roomID": 77
+    "roomID": 77,
+    "prince": false
   },
   {
     "name": "Crypt",
@@ -1090,7 +1167,8 @@
     "reviveStones": 0,
     "secrets": 5,
     "crypts": 2,
-    "roomID": 78
+    "roomID": 78,
+    "prince": false
   },
   {
     "name": "Slabs",
@@ -1103,7 +1181,8 @@
     "reviveStones": 0,
     "secrets": 2,
     "crypts": 2,
-    "roomID": 79
+    "roomID": 79,
+    "prince": false
   },
   {
     "name": "Temple",
@@ -1117,7 +1196,8 @@
     "reviveStones": 0,
     "secrets": 3,
     "crypts": 0,
-    "roomID": 80
+    "roomID": 80,
+    "prince": false
   },
   {
     "name": "Double Diamond",
@@ -1130,7 +1210,8 @@
     "reviveStones": 0,
     "secrets": 3,
     "crypts": 0,
-    "roomID": 81
+    "roomID": 81,
+    "prince": false
   },
   {
     "name": "Archway",
@@ -1144,7 +1225,8 @@
     "reviveStones": 0,
     "secrets": 3,
     "crypts": 4,
-    "roomID": 82
+    "roomID": 82,
+    "prince": false
   },
   {
     "name": "Boulder",
@@ -1158,7 +1240,8 @@
     "reviveStones": 0,
     "secrets": 0,
     "crypts": 0,
-    "roomID": 83
+    "roomID": 83,
+    "prince": false
   },
   {
     "name": "Chains",
@@ -1171,7 +1254,8 @@
     "reviveStones": 0,
     "secrets": 2,
     "crypts": 0,
-    "roomID": 84
+    "roomID": 84,
+    "prince": false
   },
   {
     "name": "Skull",
@@ -1185,7 +1269,8 @@
     "reviveStones": 0,
     "secrets": 2,
     "crypts": 0,
-    "roomID": 85
+    "roomID": 85,
+    "prince": true
   },
   {
     "name": "Scaffolding",
@@ -1198,7 +1283,8 @@
     "reviveStones": 0,
     "secrets": 2,
     "crypts": 0,
-    "roomID": 86
+    "roomID": 86,
+    "prince": false
   },
   {
     "name": "Cobble Wall Pillar",
@@ -1211,7 +1297,8 @@
     "reviveStones": 0,
     "secrets": 2,
     "crypts": 1,
-    "roomID": 87
+    "roomID": 87,
+    "prince": false
   },
   {
     "name": "Buttons",
@@ -1227,7 +1314,8 @@
     "reviveStones": 0,
     "secrets": 5,
     "crypts": 21,
-    "roomID": 88
+    "roomID": 88,
+    "prince": false
   },
   {
     "name": "Overgrown",
@@ -1240,7 +1328,8 @@
     "reviveStones": 0,
     "secrets": 3,
     "crypts": 0,
-    "roomID": 89
+    "roomID": 89,
+    "prince": false
   },
   {
     "name": "Knight",
@@ -1253,7 +1342,8 @@
     "reviveStones": 0,
     "secrets": 3,
     "crypts": 0,
-    "roomID": 90
+    "roomID": 90,
+    "prince": false
   },
   {
     "name": "Grand Library",
@@ -1267,7 +1357,8 @@
     "reviveStones": 0,
     "secrets": 4,
     "crypts": 2,
-    "roomID": 91
+    "roomID": 91,
+    "prince": false
   },
   {
     "name": "Well",
@@ -1282,7 +1373,8 @@
     "reviveStones": 0,
     "secrets": 7,
     "crypts": 5,
-    "roomID": 92
+    "roomID": 92,
+    "prince": false
   },
   {
     "name": "Andesite",
@@ -1295,7 +1387,8 @@
     "reviveStones": 0,
     "secrets": 2,
     "crypts": 0,
-    "roomID": 93
+    "roomID": 93,
+    "prince": false
   },
   {
     "name": "Locked Away",
@@ -1308,7 +1401,8 @@
     "reviveStones": 0,
     "secrets": 1,
     "crypts": 1,
-    "roomID": 94
+    "roomID": 94,
+    "prince": false
   },
   {
     "name": "Sarcophagus",
@@ -1322,7 +1416,8 @@
     "reviveStones": 0,
     "secrets": 3,
     "crypts": 1,
-    "roomID": 95
+    "roomID": 95,
+    "prince": false
   },
   {
     "name": "Tomioka",
@@ -1335,7 +1430,8 @@
     "reviveStones": 0,
     "secrets": 0,
     "crypts": 0,
-    "roomID": 96
+    "roomID": 96,
+    "prince": false
   },
   {
     "name": "Arrow Trap",
@@ -1348,7 +1444,8 @@
     "reviveStones": 0,
     "secrets": 1,
     "crypts": 1,
-    "roomID": 97
+    "roomID": 97,
+    "prince": false
   },
   {
     "name": "Melon",
@@ -1363,7 +1460,8 @@
     "reviveStones": 0,
     "secrets": 7,
     "crypts": 4,
-    "roomID": 98
+    "roomID": 98,
+    "prince": false
   },
   {
     "name": "End",
@@ -1376,7 +1474,8 @@
     "reviveStones": 0,
     "secrets": 2,
     "crypts": 1,
-    "roomID": 99
+    "roomID": 99,
+    "prince": false
   },
   {
     "name": "Perch",
@@ -1389,7 +1488,8 @@
     "reviveStones": 0,
     "secrets": 2,
     "crypts": 1,
-    "roomID": 100
+    "roomID": 100,
+    "prince": false
   },
   {
     "name": "Multicolored",
@@ -1402,7 +1502,8 @@
     "reviveStones": 0,
     "secrets": 1,
     "crypts": 0,
-    "roomID": 101
+    "roomID": 101,
+    "prince": false
   },
   {
     "name": "Painting",
@@ -1415,7 +1516,8 @@
     "reviveStones": 0,
     "secrets": 2,
     "crypts": 0,
-    "roomID": 102
+    "roomID": 102,
+    "prince": false
   },
   {
     "name": "Layers",
@@ -1431,7 +1533,8 @@
     "reviveStones": 0,
     "secrets": 8,
     "crypts": 0,
-    "roomID": 103
+    "roomID": 103,
+    "prince": false
   },
   {
     "name": "Supertall",
@@ -1447,7 +1550,8 @@
     "reviveStones": 0,
     "secrets": 6,
     "crypts": 6,
-    "roomID": 104
+    "roomID": 104,
+    "prince": true
   },
   {
     "name": "Admin",
@@ -1460,7 +1564,8 @@
     "reviveStones": 0,
     "secrets": 0,
     "crypts": 34,
-    "roomID": 105
+    "roomID": 105,
+    "prince": false
   },
   {
     "name": "Silver Sword",
@@ -1473,7 +1578,8 @@
     "reviveStones": 0,
     "secrets": 1,
     "crypts": 0,
-    "roomID": 106
+    "roomID": 106,
+    "prince": false
   },
   {
     "name": "Logs",
@@ -1486,7 +1592,8 @@
     "reviveStones": 0,
     "secrets": 4,
     "crypts": 0,
-    "roomID": 107
+    "roomID": 107,
+    "prince": false
   },
   {
     "name": "Pedestal",
@@ -1500,7 +1607,8 @@
     "reviveStones": 0,
     "secrets": 5,
     "crypts": 1,
-    "roomID": 108
+    "roomID": 108,
+    "prince": false
   },
   {
     "name": "Prison Cell",
@@ -1513,7 +1621,8 @@
     "reviveStones": 0,
     "secrets": 1,
     "crypts": 1,
-    "roomID": 109
+    "roomID": 109,
+    "prince": false
   },
   {
     "name": "Grass Ruin",
@@ -1529,7 +1638,8 @@
     "reviveStones": 0,
     "secrets": 3,
     "crypts": 4,
-    "roomID": 110
+    "roomID": 110,
+    "prince": true
   },
   {
     "name": "Granite",
@@ -1542,7 +1652,8 @@
     "reviveStones": 0,
     "secrets": 2,
     "crypts": 0,
-    "roomID": 111
+    "roomID": 111,
+    "prince": false
   },
   {
     "name": "Mage",
@@ -1556,7 +1667,8 @@
     "reviveStones": 0,
     "secrets": 4,
     "crypts": 0,
-    "roomID": 112
+    "roomID": 112,
+    "prince": false
   },
   {
     "name": "Leaves",
@@ -1569,7 +1681,8 @@
     "reviveStones": 0,
     "secrets": 1,
     "crypts": 1,
-    "roomID": 113
+    "roomID": 113,
+    "prince": true
   },
   {
     "name": "Redstone Key",
@@ -1582,7 +1695,8 @@
     "reviveStones": 0,
     "secrets": 3,
     "crypts": 4,
-    "roomID": 114
+    "roomID": 114,
+    "prince": false
   },
   {
     "name": "Drop",
@@ -1595,7 +1709,8 @@
     "reviveStones": 0,
     "secrets": 2,
     "crypts": 6,
-    "roomID": 115
+    "roomID": 115,
+    "prince": false
   },
   {
     "name": "Rare Pillars",
@@ -1608,7 +1723,8 @@
     "reviveStones": 0,
     "secrets": 1,
     "crypts": 0,
-    "roomID": 116
+    "roomID": 116,
+    "prince": false
   },
   {
     "name": "Vinny 8 Ball",
@@ -1621,7 +1737,8 @@
     "reviveStones": 0,
     "secrets": 1,
     "crypts": 0,
-    "roomID": 117
+    "roomID": 117,
+    "prince": false
   },
   {
     "name": "Golden Oasis",
@@ -1634,7 +1751,8 @@
     "reviveStones": 0,
     "secrets": 1,
     "crypts": 1,
-    "roomID": 118
+    "roomID": 118,
+    "prince": false
   },
   {
     "name": "Black Flag",
@@ -1648,7 +1766,8 @@
     "reviveStones": 0,
     "secrets": 3,
     "crypts": 1,
-    "roomID": 119
+    "roomID": 119,
+    "prince": false
   },
   {
     "name": "Sand Dragon",
@@ -1661,7 +1780,8 @@
     "reviveStones": 0,
     "secrets": 1,
     "crypts": 1,
-    "roomID": 120
+    "roomID": 120,
+    "prince": false
   },
   {
     "name": "Chambers",
@@ -1676,7 +1796,8 @@
     "reviveStones": 0,
     "secrets": 5,
     "crypts": 6,
-    "roomID": 121
+    "roomID": 121,
+    "prince": true
   },
   {
     "name": "Doors",
@@ -1690,7 +1811,8 @@
     "reviveStones": 0,
     "secrets": 5,
     "crypts": 7,
-    "roomID": 122
+    "roomID": 122,
+    "prince": true
   },
   {
     "name": "Stone Window",
@@ -1703,7 +1825,8 @@
     "reviveStones": 0,
     "secrets": 2,
     "crypts": 1,
-    "roomID": 123
+    "roomID": 123,
+    "prince": false
   },
   {
     "name": "Tombstone",
@@ -1716,7 +1839,8 @@
     "reviveStones": 0,
     "secrets": 2,
     "crypts": 0,
-    "roomID": 124
+    "roomID": 124,
+    "prince": false
   },
   {
     "name": "Lava Pit",
@@ -1729,7 +1853,8 @@
     "reviveStones": 0,
     "secrets": 3,
     "crypts": 0,
-    "roomID": 125
+    "roomID": 125,
+    "prince": false
   },
   {
     "name": "Trinity",
@@ -1742,7 +1867,8 @@
     "reviveStones": 0,
     "secrets": 4,
     "crypts": 3,
-    "roomID": 126
+    "roomID": 126,
+    "prince": false
   },
   {
     "name": "Three Floors",
@@ -1755,7 +1881,8 @@
     "reviveStones": 0,
     "secrets": 1,
     "crypts": 0,
-    "roomID": 128
+    "roomID": 128,
+    "prince": false
   },
   {
     "name": "Rail Track",
@@ -1768,7 +1895,8 @@
     "reviveStones": 0,
     "secrets": 3,
     "crypts": 3,
-    "roomID": 129
+    "roomID": 129,
+    "prince": false
   },
   {
     "name": "Staircase",
@@ -1781,7 +1909,8 @@
     "reviveStones": 0,
     "secrets": 3,
     "crypts": 2,
-    "roomID": 130
+    "roomID": 130,
+    "prince": false
   },
   {
     "name": "Pipes",
@@ -1797,7 +1926,8 @@
     "reviveStones": 0,
     "secrets": 7,
     "crypts": 9,
-    "roomID": 131
+    "roomID": 131,
+    "prince": false
   },
   {
     "name": "Pirate",
@@ -1812,7 +1942,8 @@
     "reviveStones": 0,
     "secrets": 6,
     "crypts": 2,
-    "roomID": 133
+    "roomID": 133,
+    "prince": true
   },
   {
     "name": "Altar",
@@ -1827,7 +1958,8 @@
     "reviveStones": 0,
     "secrets": 6,
     "crypts": 3,
-    "roomID": 134
+    "roomID": 134,
+    "prince": false
   },
   {
     "name": "Slime",
@@ -1843,7 +1975,8 @@
     "reviveStones": 0,
     "secrets": 5,
     "crypts": 1,
-    "roomID": 135
+    "roomID": 135,
+    "prince": false
   },
   {
     "name": "Ritual",
@@ -1856,7 +1989,8 @@
     "reviveStones": 0,
     "secrets": 3,
     "crypts": 1,
-    "roomID": 138
+    "roomID": 138,
+    "prince": false
   },
   {
     "name": "Criss Cross",
@@ -1869,7 +2003,8 @@
     "reviveStones": 0,
     "secrets": 1,
     "crypts": 6,
-    "roomID": 140
+    "roomID": 140,
+    "prince": false
   },
   {
     "name": "Carpets",
@@ -1885,7 +2020,8 @@
     "reviveStones": 0,
     "secrets": 1,
     "crypts": 3,
-    "roomID": 142
+    "roomID": 142,
+    "prince": false
   },
   {
     "name": "Redstone Crypt",
@@ -1899,7 +2035,8 @@
     "reviveStones": 0,
     "secrets": 3,
     "crypts": 0,
-    "roomID": 143
+    "roomID": 143,
+    "prince": false
   },
   {
     "name": "Zodd",
@@ -1912,7 +2049,8 @@
     "reviveStones": 0,
     "secrets": 1,
     "crypts": 1,
-    "roomID": 145
+    "roomID": 145,
+    "prince": false
   },
   {
     "name": "Higher Blaze",
@@ -1927,7 +2065,8 @@
     "reviveStones": 0,
     "secrets": 1,
     "crypts": 0,
-    "roomID": 146
+    "roomID": 146,
+    "prince": false
   },
   {
     "name": "Lower Blaze",
@@ -1942,6 +2081,7 @@
     "reviveStones": 0,
     "secrets": 1,
     "crypts": 0,
-    "roomID": 147
+    "roomID": 147,
+    "prince": false
   }
 ]
